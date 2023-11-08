@@ -62,3 +62,7 @@ button:active {
     transform: translateY(4px);
     background-color: #fc8a00;
 }
+
+button:disabled {
+    background-color: red;
+}
